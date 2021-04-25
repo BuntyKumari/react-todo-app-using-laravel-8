@@ -1,0 +1,29 @@
+.signin-wrapper{
+    width:85%;
+    margin:0 auto;
+    margin-top: 8%;
+    line-height: 5;
+  }
+  .show-hide-pwd-wrapper{
+    position:relative;
+  }
+  .errMsgStyl{
+    color:red;
+  }
+  .eyeIcon{
+    width: 25px;
+    height: 20px;
+    position: absolute;
+    top: 18px;
+    right: 6px;
+  }
+  .dont-have-txt{
+    color: #F2AA4CFF;
+    float: right;
+    font-size:12px;
+    margin-top:-30px;
+  }
+  .signup-txt, .signup-txt:hover{
+    font-weight: bold;
+    color: #F2AA4CFF;
+  }

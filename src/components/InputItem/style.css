@@ -1,0 +1,17 @@
+.input-field-container{
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+  }
+.task-title{
+    width:20%;
+}
+.task-description{
+    width:40%;
+}
+.status{
+    width:15%;
+}
+.add-task{
+    width:20%;
+}

@@ -1,0 +1,61 @@
+
+  .bg-color{
+    background-color: #C0C0C0;
+  }
+ 
+.btn-container{
+    width:10%;
+    display: flex;
+    align-self: center;
+  }
+  .txt-clor{
+    color: #05445E;
+  }
+  .text-style{
+    font-size:0.5rem;
+    font-weight: 700;
+  }
+.fa-lock, .text-color, .fa-user-circle-o{
+    color:#F2AA4CFF;
+    font-size: 24px;
+    font-weight: 700;
+  }
+
+  .txt-first{
+  width:35%
+  }
+  .txt-last{
+  width:35%;
+  }
+  .hr{
+    border: 2px solid;
+    width: 25%;
+    margin: 1% auto 2%;
+    color: #F2AA4CFF;
+  }
+  .signup-wrapper{
+    width: 85%;
+    margin: 0 auto;
+    line-height: 5;
+  }
+  .already-txt{
+    color: #F2AA4CFF;
+    float: right;
+    margin-top:-30px;
+    font-size: 12px;
+  }
+  .show-hide-pwd-wrapper{
+    position:relative;
+  }
+  .eyeIcon{
+    width: 25px;
+    height: 20px;
+    position: absolute;
+    top: 18px;
+    right: 6px;
+  }
+  .sign-in-txt,.sign-in-txt:hover{
+    color: #F2AA4CFF;
+    font-weight: bold;
+  }
+  
